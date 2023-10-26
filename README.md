@@ -7,3 +7,7 @@ The dataset is first cleaned using MS Excel by dropping duplicates, replacing sp
 One of the many interesting insights gained using the dashboard is that the married women from the Pacific holding a high school or Graduate degree, had overall more contribution towards bikes sales on average than married men from Pacific, whereas married women from the Pacific holding Partial education levels had significantly contribution towards bikes sales on average. Also married Pacific women holding high school degree belonged between adolescent and middle age group whereas the men were either middle age and senior citizens.
 
 The above insight could be used to specifically Target Married Women from the Pacific holding either High School or Graduate degree, by either advertising to them or using other business strategies to further increase Sales of Bikes in the Future.
+
+I would like to thank Mr. Alex Freberg for creating all the helpful content on the Data Analyst Bootcamp.
+
+Dataset obtained from [Link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
